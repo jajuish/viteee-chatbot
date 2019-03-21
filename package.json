@@ -1,0 +1,23 @@
+{
+  "name": "vit-webapp",
+  "version": "1.0.0",
+  "description": "Website to test the chatbot",
+  "main": "server.js",
+  "dependencies": {
+    "watson-developer-cloud": "^3.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theishita/viteee-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theishita/viteee-chatbot/issues"
+  },
+  "homepage": "https://github.com/theishita/viteee-chatbot#readme"
+}
